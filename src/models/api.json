@@ -1,58 +1,51 @@
 [
-    {
-        "título": "Ousama Ranking",
-        "sinopse": "Filho de gigantes, a expectativa de que o príncipe Bojji fosse um rei grandioso cai por terra quando o reino se depara com um pequenino rei mudo e sem talento para espada, mas um encontro fatídico muda completamente seu destino. Acompanhado de Kage, uma sobra no chão, Bojji parte em uma aventura de auto-descobrimento e severos desafios. Será Bojji capaz de provar seu valor para o reino, tornando-se um grande rei?",
-        "anoLançamento": 2021,
-        "episódios": 23,
-        "gêneros": "Aventura, Fantasia",
-        "id": 0
-    },
-    {
-        "título": "Barakamon",
-        "sinopse":"Como punição por bater em um veterano famoso, o jovem calígrafo Handa Sei é exilado para uma pequena ilha. Como alguém que nunca viveu fora de uma cidade, Handa tem de se adaptar aos seus novos vizinhos malucos, como pessoas que viajam em um trator, visitantes indesejados que nunca usam a porta da frente, crianças irritantes usando sua casa como um playground, etc. Poderá esse cara da cidade lidar com todas essas dificuldades e loucuras?",
-        "anoLançamento": 2014,
-        "episódios": 12,
-        "gêneros": "Slice of Life",
-        "id": 1
-    },
-    {
-        "título": "Fumetsu no Anata e",
-        "sinopse":"No começo, *aquilo* era uma orbe, lançada na Terra. *Aquilo* conseguia fazer duas coisas: tomar a forma de algo que o estimulasse; e voltar da morte. *Aquilo* se transformou de orbe em rocha, de rocha em lobo, e de lobo em garoto - vagando pelo mundo como um recém-nascido que nada sabe. Como garoto, *aquilo* virou Fushi. Ao ter contato com a bondade humana, Fushi não apenas aprende a sobreviver, mas também sobrevive como pessoa. Sua jornada é ameaçada pelo inexplicável e destrutivo Nokker, e pelas crueis despedidas das pessoas amadas.",
-        "anoLançamento": 2021,
-        "episódios": 20,
-        "gêneros": "Aventura, Drama, Sobrenatural",
-        "id": 2
-    },
-    {
-        "título": "3-gatsu no Lion",
-        "sinopse":"Rei Kiriyama, o protagonista, perdeu sua família num acidente quando jovem. Agora, com 17 anos, ele é um jogador profissional de shogi oprimido por uma profunda desolação. Rei mora sozinho numa velha região de Tóquio, mas após conhecer três irmãs - Akari, Hinata e Momo - ele começa a mudar aos poucos...",
-        "anoLançamento": 2016,
-        "episódios": 22,
-        "gêneros":"Drama, Slice of Life",
-        "id": 3
-    },
-    {
-        "título": "Kuragehime",
-        "sinopse":"Kuragehime (também chamado de Princess Jellyfish) se passa na maior parte do tempo em Amamizukan, um prédio com apartamentos em Tóquio – suas moradoras são otakus e homens não são permitidos. Tsukimi, a protagonista, é uma otaku viciada em água-viva e muito desajeitada. Durante algumas desventuras da vida, ela encontra Kuranosuke… um jovem que gosta de se vestir de mulher para evitar as obrigações políticas e se sentir mais perto de sua mãe. Ironicamente, Tsukimi mantém o segredo dele ser um homem de suas companheiras da Amamizukan. Onde essa história vai parar?",
-        "anoLançamento": 2010,
-        "episódios":11,
-        "gêneros": "Comédia",
-        "id": 4
-    },
-    {
-        "título": "Skip to Loafer",
-        "sinopse":"Iwakura Mitsumi sempre teve grandes sonhos: sair de sua pequena cidade, ingressar em uma universidade de alto nível e contribuir com o país antes de se aposentar em sua cidade natal. Ela está tão focada em seu objetivo que não percebe todas as outras maneiras pelas quais ela fracassou, para desgosto e preocupação de seus amigos e familiares. Uma camponesa ingênua pode ter sucesso na cidade grande, isto é, em Tóquio?",
-        "anoLançamento": 2023,
-        "episódios": 12,
-        "gêneros": "Drama",
-        "id": 5
-    },
-    {
-        "título": "Gakuen babysitters",
-        "sinopse":"Ryuichi e Kotaro são irmãos que perderam os pais num acidente de avião. Eles são adotados pelo presidente da Academia Morinomiya, que perdeu o filho e a cunhada no mesmo acidente, mas sob uma condição: Ryuichi tem que cuidar das crianças na creche da escola! A creche foi criada para ajudar os professores que têm bebês pequenos, mas sofria com a falta de funcionários até que Ryuichi se torna o primeiro membro do clube de babás, criado para resolver esse problema!",
-        "anoLançamento": 2018,
-        "episódios": 12,
-        "gêneros": "Slice of Life",
-        "id": 6
-    }
+    { "jogo": "League of Leagends",
+    "tema": "MOBA",
+    "quantidade": "5 Jogadores"
+},
+
+    { "jogo": "Valorent",
+    "tema": "FPS",
+    "quantidade": "5 Jogadores"
+},
+
+    { "jogo": "The Sims",
+    "tema": "Simulação de vida real",
+    "quantidade": "Mutiplos jogadores"
+},
+
+    { "jogo": "Dead By Dayligth",
+    "tema": "Terror",
+    "quantidade": "5 Jogadores"
+},
+
+    { "jogo": "Minecraft",
+    "tema": "SandBox e Sobrevivência",
+    "quantidade": "Mutiplos Jogadores"
+},
+
+    { "jogo": "Fortnite",
+    "tema": "FPS",
+    "quantidade": "5 Jogadores"
+},
+
+    { "jogo": "Runaeterra",
+    "tema": "RPG",
+    "quantidade": "1 Jogador"
+},
+
+    { "jogo": "FallGuys",
+    "tema": "Festa Royale",
+   "quantidade": "4 Jogadores"
+},
+
+    { "jogo": "GTA 5",
+    "tema": "Simulação de vida Real",
+    "quantidade": "Mutiplos jogadores"
+},
+
+    { "jogo": "Residente Evil",
+    "tema": "Terror Sobrevivencias",
+    "quantidade": "8 Jogadores"
+}
 ]

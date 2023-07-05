@@ -2,11 +2,10 @@ import mongoose from 'mongoose';
 
 const apiSchema = new mongoose.Schema(
     {
-        titulo: { type: String, required: true},
-        sinopse: { type: String, required: true},
-        anoLançamento: {type: String, required: true},
-        episodios: {type: Number, required: true},
-        generos: {type: String, required: true},
+        jogo: { type: String, required: true},
+        tema: { type: String, required: true},
+        quantidade: {type: String, required: true},
+        
     }
 )
 
