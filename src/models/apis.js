@@ -12,5 +12,6 @@ const apiSchema = new mongoose.Schema(
 
 const apis = mongoose.model('apis', apiSchema);
 
-module.exports = apis;
+
+export default apis; 
 

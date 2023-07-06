@@ -1,7 +1,10 @@
 import express from 'express';
 import ApiController from '../controllers/apiControllers.js';
 
-const route = express.Router();
+const router = express.Router();
 
-route
+router
 .get("/", ApiController.getAllApis)
+.post("./", ApiController.createApis)
+ 
+export default router;  
